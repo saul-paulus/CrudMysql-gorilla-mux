@@ -12,3 +12,6 @@ Jika data diambil berdasarkan id
 
 Jika data dihapus secara permanen dari database
 ![Screenshot from 2021-04-01 19-02-49](https://user-images.githubusercontent.com/55346618/113278447-e547fe00-931c-11eb-9499-5355c9a0db6e.png)
+
+jika data diubah atau diupdate
+![Screenshot from 2021-04-01 19-04-15](https://user-images.githubusercontent.com/55346618/113278613-19232380-931d-11eb-9864-04385c84c43b.png)
